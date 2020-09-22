@@ -71,4 +71,4 @@ terminal window and run the following command to install minitest:
 
 Run the tests from the exercise directory using the following command:
 
-    ruby card_checker_test.rb
+    ruby credit_card_checker_test.rb
