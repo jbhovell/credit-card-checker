@@ -1,6 +1,8 @@
 # credit-card-checker
 
-Checks if a credit card number is valid.
+My simple ruby tool to check if a credit card number is valid. 
+
+It is published on [RubyGems](https://rubygems.org/gems/credit_card_checker) for public download.
 
 ## Validating a Number
 
