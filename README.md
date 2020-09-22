@@ -1,6 +1,6 @@
 # credit-card-checker
 
-Checks if credit card number is valid.
+Checks if a credit card number is valid.
 
 ## Validating a Number
 
