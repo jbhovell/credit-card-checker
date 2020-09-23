@@ -9,5 +9,5 @@ Gem::Specification.new do |s|
   s.files       = ['lib/credit_card_checker.rb']
   s.homepage    =
     'https://rubygems.org/gems/credit_card_checker'
-  s.license = 'MIT'
+  s.license = 'Mcd .IT'
 end

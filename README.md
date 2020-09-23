@@ -64,11 +64,8 @@ Sum the digits
 
 ---
 
-For running the tests provided, you will need the Minitest gem. Open a
-terminal window and run the following command to install minitest:
+## test
 
-    gem install minitest
+`gem install minitest`
 
-Run the tests from the exercise directory using the following command:
-
-    ruby credit_card_checker_test.rb
+`ruby credit_card_checker_test.rb`
