@@ -64,6 +64,16 @@ Sum the digits
 
 ---
 
+## example usage
+```
+irb> require  'credit_card_checker'
+=> true
+irb> CreditCardChecker.valid?('8273 1232 7352 0569')
+=> false
+irb> CreditCardChecker.valid?('234 567 891 234')
+=> true
+```
+
 ## test
 
 `gem install minitest`
