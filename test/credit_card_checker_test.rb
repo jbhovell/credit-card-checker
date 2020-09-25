@@ -27,6 +27,10 @@ class CreditCardCheckerTest < Minitest::Test
   end
 
   def test_invalid_credit_card
+    assert CreditCardChecker.valid?('4539 1488 0343 6467')
+  end
+
+  def test_invalid_number_with_an_even_number_of_digits
     refute CreditCardChecker.valid?('8273 1232 7352 0569')
   end
 
